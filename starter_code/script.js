@@ -1,8 +1,8 @@
 //Task 1: Console the year in which the song "Beat it" was relased 
-
+console.log(library.music.eighties.Michael_Jackson[0].year);
 
 //Task 2: Console the name of the song Lady Gaga released in 2006 
-
+console.log(library.music.two_thousands.Lady_Gaga[0].song);
 
 
 $( document ).ready(function() {
